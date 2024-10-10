@@ -7,7 +7,7 @@ def restar():
 
 
 def lista():
-    return ["foo","bar","charlie"]
+    return ["foo","bar","charlie","echo"]
 
 
 def texto(txt):
